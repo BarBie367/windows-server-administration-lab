@@ -83,7 +83,7 @@ Configured Group Policies such as:
 ## Network Configuration
 
 ![Windows_Server_Domain](windows_server_domain_configuration.jpg)
-![Network](network.jpg)
+![Network](network_configuration.jpg)
 ![Network_Connectivity](network_connectivity.jpg)
 
 ---
