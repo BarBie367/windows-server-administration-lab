@@ -62,19 +62,19 @@ Configured Group Policies such as:
 ## Active Directory Users and Computers
 
 
-![Create_OU](screenshots/create_OU.jpg)
-![AD Users](screenshots/new_user_created.jpg)
-![Create_Group](screenshots/new_group.jpg)
-![AD_User_To_Group](screenshots/user_added_to_group.jpg)
-![Disable_User](screenshots/disable_user.jpg)
+![Create_OU](create_OU.jpg)
+![AD Users](new_user_created.jpg)
+![Create_Group](new_group.jpg)
+![AD_User_To_Group](user_added_to_group.jpg)
+![Disable_User](disable_user.jpg)
 
 ---
 
 ## Group Policy Management
 
-![GPO_Security_Treshold](screenshots/security_policy_treshold_lockout.jpg)
-![GPO_Wallpaper](screenshots/wallpaper_policy.jpg)
-![GPO_CMD_Access](screenshots/cmd_access_management.jpg)
+![GPO_Security_Treshold](security_policy_treshold_lockout.jpg)
+![GPO_Wallpaper](wallpaper_policy.jpg)
+![GPO_CMD_Access](cmd_access_management.jpg)
 
 
 
@@ -82,9 +82,9 @@ Configured Group Policies such as:
 
 ## Network Configuration
 
-![Windows_Server_Domain](screenshots/windows_server_domain_configuration.jpg)
-![Network](screenshots/network.jpg)
-![Network_Connectivity](screenshots/network_connectivity.jpg)
+![Windows_Server_Domain](windows_server_domain_configuration.jpg)
+![Network](network.jpg)
+![Network_Connectivity](network_connectivity.jpg)
 
 ---
 
@@ -102,8 +102,8 @@ Client could not join the domain.
 
 ### Solution
 Configured the correct DNS server and verified connectivity using ping.
-![Windows_Server](screenshots/network_configuration.jpg)
-![Windows_Server](screenshots/network_connectivity.jpg)
+![Windows_Server](network_configuration.jpg)
+![Windows_Server](network_connectivity.jpg)
 
 
 #### Problem III
@@ -111,7 +111,7 @@ User forgot password
 
 #### Solution
 Reseted user's password
-![AD_Users_And_Computers](screenshots/reset_password.jpg)
+![AD_Users_And_Computers](reset_password.jpg)
 
 
 ---
