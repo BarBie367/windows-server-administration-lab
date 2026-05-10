@@ -95,7 +95,7 @@ User got locked out
 
 ## Solution
 Unlock user via AD Users and Computers
-![AD_Users_And_Computers](screenshots/user_unlocked.jpg)
+![AD_Users_And_Computers](user_unlocked.jpg)
 
 ### Problem II
 Client could not join the domain.
